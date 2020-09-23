@@ -1,0 +1,13 @@
+D:\UCP\Programacion II\Trabajo Practico 1\bin\Debug\netcoreapp3.1\Trabajo Practico 1.exe
+D:\UCP\Programacion II\Trabajo Practico 1\bin\Debug\netcoreapp3.1\Trabajo Practico 1.deps.json
+D:\UCP\Programacion II\Trabajo Practico 1\bin\Debug\netcoreapp3.1\Trabajo Practico 1.runtimeconfig.json
+D:\UCP\Programacion II\Trabajo Practico 1\bin\Debug\netcoreapp3.1\Trabajo Practico 1.runtimeconfig.dev.json
+D:\UCP\Programacion II\Trabajo Practico 1\bin\Debug\netcoreapp3.1\Trabajo Practico 1.dll
+D:\UCP\Programacion II\Trabajo Practico 1\bin\Debug\netcoreapp3.1\Trabajo Practico 1.pdb
+D:\UCP\Programacion II\Trabajo Practico 1\obj\Debug\netcoreapp3.1\Trabajo Practico 1.csprojAssemblyReference.cache
+D:\UCP\Programacion II\Trabajo Practico 1\obj\Debug\netcoreapp3.1\Trabajo Practico 1.AssemblyInfoInputs.cache
+D:\UCP\Programacion II\Trabajo Practico 1\obj\Debug\netcoreapp3.1\Trabajo Practico 1.AssemblyInfo.cs
+D:\UCP\Programacion II\Trabajo Practico 1\obj\Debug\netcoreapp3.1\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+D:\UCP\Programacion II\Trabajo Practico 1\obj\Debug\netcoreapp3.1\Trabajo Practico 1.dll
+D:\UCP\Programacion II\Trabajo Practico 1\obj\Debug\netcoreapp3.1\Trabajo Practico 1.pdb
+D:\UCP\Programacion II\Trabajo Practico 1\obj\Debug\netcoreapp3.1\Trabajo Practico 1.genruntimeconfig.cache

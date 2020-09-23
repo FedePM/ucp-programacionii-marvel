@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Trabajo_Practico_1
+﻿namespace Trabajo_Practico_1
 {
     class Program
     {
@@ -8,15 +6,11 @@ namespace Trabajo_Practico_1
         {
             Superpoder superfuerza = new Superpoder(true, 3);
 
-            Superheroe ironman = new Superheroe(5, superfuerza);
+            Superheroe ironman = new Superheroe("Iron Man",1963,"Marvel",100,5, superfuerza);
 
-            Villano thanos = new Villano();
+            Villano thanos = new Villano("Thanos",1973,"Marvel",100);
             
             Combate combate = new Combate(ironman,thanos,ironman,2);
-
-            Juego juego = new Juego();
-
-            System.Console.WriteLine(juego.GetCombates().ToString());
         }
     }
 }

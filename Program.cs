@@ -10,7 +10,7 @@
 
             Villano thanos = new Villano("Thanos",1973,"Marvel",100);
             
-            Combate combate = new Combate(ironman,thanos,2);
+            Combate combate = new Combate(ironman,thanos,ironman,2);
         }
     }
 }

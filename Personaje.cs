@@ -55,8 +55,9 @@ public class Personaje{
     #endregion
 
     #region Metodo
-    // "Atacar()" es virtual porque en caso de que necesitemos declarar un objeto de la clase Personaje, 
-    // éste deberá detectar que Atacar() tiene un cuerpo definido, de lo contrario, generaría un error.
+    // "Atacar()" es virtual porque todos los personajes pueden atacar. Entonces, gracias a ser virtual,
+    // se puede definir el método "Atacar()" solo en la clase Personaje y además puede sobreescribirse
+    // si es necesario implementar algo específico para Superheroe o Villano.
     public virtual void Atacar(){}
     #endregion
 }
